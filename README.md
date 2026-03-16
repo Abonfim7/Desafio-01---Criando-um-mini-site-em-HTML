@@ -1,8 +1,5 @@
 # Desenvolvimento Front End - Senai
-Desafio-01---Criando-um-mini-site-em-HTML
-
 	
-Desafio 01 - Criando um mini site em HTML
 🌐 Desafio: Criando um Mini Site em HTML  
 
 Objetivo:
