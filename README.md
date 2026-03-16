@@ -53,3 +53,5 @@ Feijoada
 Pão de queijo
 Brigadeiro
 Açaí
+Brigadeiro
+Açaí
